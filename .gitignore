@@ -72,4 +72,7 @@ coverage.xml
 .vscode/
 
 # GitHub workflows
-.github/
+#.github/
+
+# Generated files
+*.txt
